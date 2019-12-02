@@ -1,0 +1,2 @@
+
+<div itemscope itemtype="https://schema.org/VideoObject"><meta itemprop="uploadDate" content="Sun Dec 01 2019 01:10:06 GMT+0100 (GMT+01:00)"/><meta itemprop="name" content="Bein sports 1 HD"/><meta itemprop="duration" content="P0D" /><meta itemprop="contentUrl" content="http://srv.alamalkoraapp.info:8080/bein-sports-01-hd/index.m3u8"/><script src="https://cdn.jwplayer.com/players/N4WXuXnY-JWEDOZN2.js"></script></div>
